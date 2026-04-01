@@ -71,10 +71,19 @@ Details: siehe `docs/gates/`
 Dieses Repo ist die Source of Truth für den Dev-Agent-Prozess.
 Es soll regelmäßig weiterentwickelt, geschärft und auf echte Projekte angewendet werden.
 
+## Erweiterte Betriebsdoku
+
+- `docs/operations/agent-prompt-profiles.md` → Rollenfokus und Prompt-Profile
+- `docs/operations/handoff-protocol.md` → Übergabeformat zwischen Rollen
+- `docs/operations/sub-agent-orchestration.md` → Delegationsmuster und Grenzen
+- `CONTRIBUTING.md` → Änderungsprinzipien
+- `ROADMAP.md` → Ausbaupfad
+- `DECISIONS.md` → wichtige Grundsatzentscheidungen
+- `CHANGELOG.md` → Verlauf
+
 ## Nächste sinnvolle Erweiterungen
 
-- konkrete Prompt-Profile je Rolle
 - Example Project Lifecycle
 - Stack-spezifische Standards (z. B. Next.js, Supabase, Expo)
 - CI-Checklisten und Security-Automation
-- Changelog / Decision Log
+- Bewertungsraster / Scorecards
