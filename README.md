@@ -67,6 +67,18 @@ Details: siehe `docs/gates/`
 - `templates/` → Übergabe- und Arbeitsvorlagen
 - `standards/` → technische und operative Standards
 - `scorecards/` → Bewertungsraster für QA, Security und Release
+- `prompts/` → runbare Prompt-Dateien je Kernrolle
+
+## Runbare Rollen-Prompts
+
+- `prompts/lead-orchestrator.prompt.md`
+- `prompts/research-agent.prompt.md`
+- `prompts/architect-planner.prompt.md`
+- `prompts/build-agent.prompt.md`
+- `prompts/review-qa-agent.prompt.md`
+- `prompts/security-agent.prompt.md`
+- `prompts/deploy-ops-agent.prompt.md`
+- `prompts/design-ui-agent.prompt.md`
 
 ## Einsatz
 

@@ -15,3 +15,4 @@
 - Security Baseline ergänzt
 - Scorecards für QA, Security und Release Readiness angelegt
 - Beispiel-Projekt-Lifecycle ergänzt
+- runbare Prompt-Dateien für alle Kernrollen angelegt
