@@ -63,8 +63,10 @@ Details: siehe `docs/gates/`
 - `docs/roles/` → Rollenprofile
 - `docs/workflows/` → Abläufe
 - `docs/gates/` → Freigabekriterien
+- `docs/operations/` → operative Agentenführung und Übergaben
 - `templates/` → Übergabe- und Arbeitsvorlagen
 - `standards/` → technische und operative Standards
+- `scorecards/` → Bewertungsraster für QA, Security und Release
 
 ## Einsatz
 
