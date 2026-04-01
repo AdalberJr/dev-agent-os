@@ -31,6 +31,24 @@ Security Gate ist fester Bestandteil vor Release und bei sensibler Architektur s
 
 ---
 
+## 2026-04-01 — Learnings aus erstem Testprojekt (AI Sales Copilot)
+
+### Erfahrung
+Erster vollständiger Durchlauf von Idee bis laufendem Supabase-Backend mit Expo Mobile App.
+
+### Kritische Learnings
+- Expo-Stack nie manuell zusammenbauen — immer `npx create-expo-app` als Startpunkt
+- Research Memo muss mindestens 2 echte Optionen mit Tradeoffs enthalten
+- Security Gate ist operativ (testen!), nicht nur theoretisch (dokumentieren)
+- Tickets brauchen messbare Akzeptanzkriterien, nicht nur Phasenbeschreibungen
+- AI im Produktnamen bedeutet AI muss im MVP funktionieren
+- Session-Persistenz bei Mobile Apps gehört in Phase 1
+
+### Konsequenz
+Diese Punkte fließen als Standards in künftige Projekte ein.
+
+---
+
 ## 2026-04-01 — Professionelles Basismodell vor Automatisierung
 
 ### Entscheidung

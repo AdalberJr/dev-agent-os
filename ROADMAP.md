@@ -30,5 +30,18 @@
 ## Phase 5 — Maturity
 - [ ] Decision Log pflegen
 - [ ] Reale Projektbeispiele referenzieren
-- [ ] Anti-Patterns sammeln
-- [ ] Scorecards / Bewertungsraster hinzufügen
+- [x] Anti-Patterns sammeln (aus AI Sales Copilot v0.1)
+- [x] Scorecards / Bewertungsraster hinzufügen
+
+---
+
+## Anti-Patterns (aus erstem Testprojekt)
+
+Diese Anti-Patterns wurden im ersten realen Projektdurchlauf identifiziert:
+
+- **Expo Stack manuell zusammenbauen** → immer `npx create-expo-app` nutzen
+- **Research ohne echten Vergleich** → mindestens 2 Optionen mit Tradeoffs
+- **Security Gate nur auf Papier** → Cross-User-Test ist Pflicht
+- **Tickets als Phasen statt Aufgaben** → jedes Ticket braucht Done-Kriterium
+- **AI im Namen ohne AI im MVP** → Claims müssen erfüllbar sein
+- **Session-Persistenz als Nice-to-have** → bei Mobile Apps immer Phase 1

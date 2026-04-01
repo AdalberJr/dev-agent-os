@@ -16,3 +16,10 @@
 - Scorecards für QA, Security und Release Readiness angelegt
 - Beispiel-Projekt-Lifecycle ergänzt
 - runbare Prompt-Dateien für alle Kernrollen angelegt
+
+## 2026-04-01 (Post-Release Update)
+
+### Added
+- Anti-Patterns aus erstem Testprojekt in ROADMAP ergänzt
+- Learnings in DECISIONS.md dokumentiert
+- Post-Release Review Prozess validiert
